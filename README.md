@@ -4,4 +4,5 @@ Bu kısımda en çok merak ettiğim Linq Sorgularını ve DB First yaklaşımıy
 
 Sorgu Metodları ile Veri Çekme İşlemleri ana konularımızdan biri oldu.
 
-![301](https://github.com/user-attachments/assets/a12db9e0-462b-4fec-8c5f-d25319704f42)
+
+![301](https://github.com/user-attachments/assets/fbf222f5-c074-4da8-9892-be49d7a653a1)
